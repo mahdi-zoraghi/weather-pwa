@@ -1,4 +1,4 @@
-# Deploy To : [here](https://twitter-clone-8173a.web.app/)
+# Deploy To : [here](https://weather-pwa-6d2be.web.app/)
  
 <img src="https://raw.githubusercontent.com/mahdi-zoraghi/weather-pwa/master/weather-pwa-screen.jpg" />
 
